@@ -1,0 +1,16 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "convierte csv a json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv2json",
+    "csv",
+    "json"
+  ],
+  "author": "javier nicolas",
+  "license": "ISC"
+}
